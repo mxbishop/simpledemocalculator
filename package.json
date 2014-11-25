@@ -1,0 +1,22 @@
+{
+  "name": "simpledemocalculator",
+  "version": "0.0.0",
+  "description": "simpledemocalculator ====================",
+  "main": "calc.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mxbishop/simpledemocalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxbishop/simpledemocalculator/issues"
+  },
+  "homepage": "https://github.com/mxbishop/simpledemocalculator",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
+}
